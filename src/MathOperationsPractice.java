@@ -1,7 +1,7 @@
 public class MathOperationsPractice {
     public static void main(String[] args) {
         // ===== OPERATOR ARITMATIKA DASAR =====
-        System.out.println("=== OPERATOR ARITMATIKA DASAR ===");
+        System.out.println("\\n=== OPERATOR ARITMATIKA DASAR ===");
 
         // Latihan 1: Berlatih operasi aritmatika dasar
         // - Deklarasikan dua integer: num1 = 25, num2 = 4
