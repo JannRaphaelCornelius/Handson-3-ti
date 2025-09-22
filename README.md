@@ -1,4 +1,4 @@
-# Java Syntax and Data Types Handson Practice
+# Java Operators Handson Practice
 
 **Nama:** Jann Raphael Cornelius Silalahi
 
